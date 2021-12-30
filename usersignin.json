@@ -1,0 +1,38 @@
+[
+  {
+    "username": "radhika",
+    "password": "Radhi123$",
+    "DOB": "qwer",
+    "description": "qwer",
+    "hobby": "qwe",
+    "gender": "qwe"
+  },
+  {
+    "username": "sapna",
+    "password": "sApn123$",
+    "DOB": "ertyu",
+    "description": "ertyu",
+    "hobby": "rtyu",
+    "gender": "rtyu"
+  },
+  [
+    {
+      "username": "satish",
+      "password": "sAtish123$",
+      "DOB": "rtyu",
+      "description": "rtyu",
+      "hobby": "rtyui",
+      "gender": "rtyu"
+    }
+  ],
+  [
+    {
+      "username": "vidhi",
+      "password": "vidhA123$",
+      "DOB": "1234",
+      "description": "qwer",
+      "hobby": "qwert",
+      "gender": "qwer"
+    }
+  ]
+]
